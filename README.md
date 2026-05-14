@@ -2,8 +2,8 @@
 
 A Power BI dashboard built to analyze employee attendance patterns across April–June 2022.
 
-## Snapshot
-![Dashboard](Snapshot%20.png)
+
+![Dashboard](dashboardscreenshot.png)
 
 ## What it shows
 - Overall **Presence %**, **Work From Home %** and **Sick Leave %**
